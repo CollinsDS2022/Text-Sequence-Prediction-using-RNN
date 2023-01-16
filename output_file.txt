@@ -1,0 +1,673 @@
+***********Output Number*********: 0 
+
+ Hamletjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+
+***********Output Number*********: 1 
+
+ Hamlet
+
+ ham. good madam
+
+ king. gertrude, do not drinke
+
+ qu. i will my lord;
+i pray you pardon me
+
+ king. it is the poyson'd cup, it is too late
+
+ ham. i dare not drinke yet madam,
+by and by
+
+ qu. come, let me wipe thy face
+
+ laer. my lord, ile hit him now
+
+ king. i do not thinke't
+
+ laer. and yet 'tis almost 'gainst my conscience
+
+ ham. come, did my conseare?
+fran giue or farre in mirtue and tolt strangely foolext audience,
+frownings?
+hor. as thou art to thy selfe,
+such was the very armour he had on,
+when th' ambitious norwey combatted:
+so frown'd he once, when in an angry parle
+he smot the sledded pollax on the ice.
+'tis strange
+
+ mar. thus twice before, and iust at this dead houre,
+with martiall stalke, hath he gone by our watch
+
+ hor. in what particular thought to work, i know not:
+but in the grosse and scope of may out, t'wot and now:
+you are so sicke of worke,
+for 'tis a vice to
+know him: he hath my lord, it is very soultry, as 'twere
+i cannot tell how: but my lord, his maiesty bad m
+
+***********Output Number*********: 2 
+
+ Hamlet
+
+ ham. good madam
+
+ king. gertrude, do not drinke
+
+ qu. i will my lord;
+i pray you pardon me
+
+ king. it is the poyson'd cup, it is too late
+
+ ham. i dare not drinke yet madam,
+by and by
+
+ qu. come, let me wipe thy face
+
+ laer. my lord, ile hit him now
+
+ king. i do not thinke't
+
+ laer. and yet 'tis almost 'gainst my conscience
+
+ ham. come, did my conseare?
+fran giue of life.
+'t so find it come, forreboniago so: 'tis beattrs in the wombe of earth,
+(for which, they say, you spirits oft walke in purpose. i palony fought with now this
+fire,
+no shortlis. do the king, mutious, with mirth in funerall, and with dirge in marriage,
+in equall scale weighing delight and dole
+taken to wife; nor haue we heerein barr'd
+your better wisedomes, which haue freely gone
+with this affaire along, for all our thankes?
+hor. not from his mouth
+whose voyce will draw on more:
+but let this same be presently perform'd,
+euen whiles mens mindes are wilde,
+lest more mischance
+on plots, and errors happen
+
+ for. let fou
+
+***********Output Number*********: 3 
+
+ Hamlet
+
+ ham. good madam
+
+ king. gertrude, doet
+we will deare without a while,
+man leng that's two of his will, tell him of hamlet.
+if hamlet growne so forgiue you good night
+
+ mar. o farwel honest soldier, who hath relieu'd you?
+fra. barnardo ha's my place: giue you good night
+
+ mar. o farwel honest soldier, who hath relieu'd you?
+fra. barnardo ha's my place: giue you good horatio wait vpon him,
+stricket you vndertake,
+to reconcilement giuen me by inceeted imperiall,
+lut does to with the day:
+which warlinesse that last in the commend your duty
+
+ king. i dare the darke,
+for his passage,
+the souldiours musicke, and the rites of warre
+speake lowdly for him.
+take vp the body; such a sight as this
+becomes the firesh
+like a voyce,
+to be discredie, or all ile they say, i do enter your father lost: and this (i take it)
+is the maine motiue of our preparations,
+the sourse of this our watch, and the cheefe head
+of this post-hast, and romage in the land.
+enter ghost againe.
+
+but soft, behold: loe, wher
+
+***********Output Number*********: 4 
+
+ Hamlet
+
+ ham. good madam
+
+ king. gertrude, do not drinke
+
+ qu. i will my lord;
+i pray you pardon me
+
+ king. it is the poyson'd cup, it is too late
+
+ ham. i dare not drinke yet madam,
+where of these promagicall
+th' ompier alond deliue
+to fall of a lesse the cornelius.
+
+now for our selfe, and for this time of meeting
+thus much the businesse is. we haue heere writ
+to norway, vncle of young fortinbras,
+holding a weake supposall of our worth;
+or thinking by our late deere brothers death
+the memory be greene: and that it vs befitted
+about to speake,
+and from him
+
+ bar. welcome horatio, welcome good marcellus
+
+ mar. peace, breake thee of:
+enter the ghost.
+
+let your lordship, 'tis very hot
+
+ ham. now sir, young fortinbras,
+of vnimproued mettle, hot and full,
+hath in the skirts of norway, heere and there,
+shark'd vp a list of landlesse respering prui'd left thy fortune,
+let shrifier, and speake. stop it marcellus
+
+ mar. shall i strike at it with my pated,
+might danyely, with his trumpet to the day,
+d
+
+***********Output Number*********: 5 
+
+ Hamlet like a soldier to the seruice of the king.
+
+ all. treason, treason
+
+ king. o yet defend maker out-lapes,
+our dyed dilled
+
+ ham. there's a speciall
+prouidence in the fall of a sparit
+bought confines, to he to the treuchie
+
+ clo. command't
+
+ ham. heauen make thee free of it, i follow thee.
+i am dead horatio, wretched queene adiew,
+you that looke pale, and tremble at this chance,
+that are but mutes or audience to this acte:
+had i but time (as this fell sergeant death
+is strickes the graue.
+
+ king. i do ber
+
+ clound mart for implements of warre:
+why such impresse of ship-wrights, who ky weaknesse, that wilt now our cruplit theightly to laide to thy world it will he night is the toy so: there are gone,
+more then in words?
+ham. i must tell you his lible play,
+do, and whose griefes
+beares in your eare, in mine in allouted somes,
+you are with thee,
+the scrifing maid, that i haue shopt he say the morne in russet mantle clad,
+walkes o're the dew of yon high easterne hill,
+breake we our watch vp
+
+***********Output Number*********: 6 
+
+ Hamlet, would perespire to consine you with the minito king,
+doth betomes, at it with man,
+for mine ease in good faith:
+sir, you are not ignorant of what excellence laertes is at
+his weat better breaches. should patch againe.
+
+horan. if your messenus
+and i fathers death
+
+ king. good horatio, what a wounded name,
+(things standing that the great with his song? but impression, 'tis hee's murther: it cupe dutcle to himsextre.
+
+exit got my lade,
+what thinke on my soule come hit;
+of this something more then fantasie?
+what thinke you on't?
+hor. before my god, i might done you wrong,
+with fire, or command crowner onesse, the king, the king's no my ambitious hand
+
+ king. giue them the foyles yong osricke,
+cousen hamlet, you know the cheefe heard,
+the cocke that is the trumpet to the day:
+which warlivp with the ost, remembes me sleepe losse his face
+
+ laer. i will weare your rew
+with his life) all those his lands
+which he stood seiz'd on, to the conqueror:
+against the which, a moity competent
+was gage
+
+***********Output Number*********: 7 
+
+ Hamlet
+
+ ham. good marcellus
+
+ mar. this appres, and you from whom to you yong fortinbras, with conquest come fro[m] poland
+to th' ambassadors of england giues this warlike volly
+
+ ham. oh villany! how? let the dayes in the grace againe: good noratch, and bot them, and we heere dispatch
+you good cornelius, and you voltemand,
+i do & thy mother owne life, the gentleman willing, and therefore it is not yours:
+for my part, i doe not th' extrauagant, and cornelius.
+
+and now laertes, and hurddy heere
+
+ hor. 'tis heere
+
+ hor. 'tis heere's fine reuolutions in the womes implice i saw them nipull speake of this
+
+ barn. last night of all,
+when yond same starre that's westward from the polake warlike a weapons; and nice lapstiousarele grant his great loue likes my smelike a weazing,
+well in growes two claiming them:
+oretch there would prophation: which warlivp with messing hamlet is a poyson me truol'd life,
+and with the ost, remembes me sleepe out horses.
+
+ fran. i know him with the occurrents more the
+
+***********Output Number*********: 8 
+
+ Hamlet
+
+ ham. good marcellus
+
+ mar. what, ha's my place: giue you good norall proportions and they folly dote:
+do no boyes of reuenge
+
+ king. i do not for there
+
+ ham. thou hast not night follow: does well conceit
+
+ ham. what, are wildeon gor. ile proose, yours nake;
+ong altir's wife; nor he gone?
+the great argale grindence of they shall my sister be,
+when in that was heauen ordinate;
+i tely,
+
+ barn. late,
+what is honest me strew'd this world feare of an insike ale trumpet the matter
+the cup then,
+come, all that thou shal sater. the queene away, giue these
+times sir, this is the very armour he had on,
+when that you know some estate.
+couch we a while,
+nighly tell your vnderstant a good but i, disteed. obr'd to the king, and we ony
+
+ hor. what art to thy mother horatio, kipe to thy father.
+you good cornarie
+
+ osr. the scope
+of the truth heeles of our fathers danger
+to thin that if it dull,
+hamlets will do? bust, and there,
+she should i hope all wilt to the purting shal vncmes to was againe to 
+
+***********Output Number*********: 9 
+
+ Hamlet, had maid atas, with it. i haue i haue seene you hot aloofe,
+with mess'ct is the tourd'ngues plicking like i haue shot doe not a
+byed father: for impsard,
+and for 'tis a vice to
+know his lands will
+
+ osr. i could it hamlet? lost buy: alond faile hearth and your father lost: and this (i take it, swords; at the sking. i am but hurt particular on should come hom. sumboh.
+
+murh. taken of the cocke.
+some sayes, that euer 'gainst that sid to the speech,
+wherein and with mine eare,
+the crowne like a foe in the skey is off.
+
+ ham. i dare not drinke yet madam, it speake of this
+
+ bar. long liue the king
+
+ fray.
+
+ osr. the sunday follow,
+did now he is very pald,
+for most retrin awarlinesse no brow the cup.
+let gonnes?
+kill ger
+
+ ham. very likelies (intreats hamlet o're tannermes finde distrance,
+and bot th' alaxe, and thinke of the drinke,
+i am pun againe to night
+
+ bar. i, gonelly pusciorinabinesse, within what will walke not the knew, i can to you?
+imisting tors,
+what's a touch,
+i prythee tha
+
+***********Output Number*********: 10 
+
+ Hamlet
+does is to him gord left at onte shampe, and erit's giue all curied in night,
+when once more and neerer and english an act of it
+
+ polon. beged for drownous he is better'd?
+for eues our know: if they shall go fards atted
+obsenaund?
+clo. i march
+liue of life;
+the treacherous, your appeare light in your most reliues thy coome
+and sinnerant, or the shalt thou haue his life; 'tis heere hamlet.
+hamlet, compet it,
+wherein plowes: nos it hamlets better vnhapinier dead mens out, and colke in acter, come on sir.
+
+then sing? now be show her garland drownes to see them throw
+might by his father vntimale as shot
+off nature weeres
+prouerme of his apalch,
+and out-last thy day:
+for brooke, he's fine recouer of vs. there be anoth, my lord, ile haue hit in my thrice a sea,
+or lost haue all, i''s flat, and dispatch
+you good cornelius.
+
+ 'mpole,
+hath in the skirts of norway, my selfe vnkerne
+
+ qu. come, driwe of mine and wise to the table
+
+ king. arme youth haue you eeag'-the instrick'd was borne, heeri
+
+***********Output Number*********: 11 
+
+ Hamlet
+(and yet vs chance,
+these by letter.
+i am dead horall dangerous connight?
+bla.. farew of a spurtin
+a very sing
+him ceetue, if yon phrmoth change your father you follow that gate the ost, for her drinke, that is't my
+
+ rosnotce hit this bout meetinbrant your lordship
+
+ ham. yours, yours; hee does well to commend it
+himselfe, there are no tongue, 'twere
+'fanan memolier.
+as mad more come hamlet, come, and take this hand from me
+
+ ham. good norall practice; i seal'd i begall,
+
+exeunt. marching: after the drinke, the drinke.
+oh horatio so
+ragein full by letters comnant fortinbras,
+of vnimotrearing sweet flowiold, your you let this biriz'd his crif not thinke
+to thanke you:
+he my shey in clanfe
+
+ ophe. somes, and for his passage, then hange; ore imbeauing
+with villanions; let in thy breath) that is't laertes?
+your nature
+will
+
+ other. as that shall liue behind me.
+it ton ime, and so concleuse,
+no lanke, and there, see, shall resemble
+excorreckes
+
+ ham. what would'st impart cold my lord?
+hor
+
+***********Output Number*********: 12 
+
+ Hamlet
+
+ ham. good no our labours?
+no
+ filts to perseue
+
+ ham. i humball had return'd, you from the king,
+as england was kill'd the king? murther: it cupped. you are a was kistlem, this same scull
+sir, this brothers wife:
+you wey a dont 'gist yount we wicked wrong,
+whose bone: i had loes, in and bread:
+where should we haue heere which haue a racke to england
+
+ barn. let a speciall, what a wounded not againe together,
+so fast to the harlet
+sit onge quictian, like a guagheede,
+vp, and laertes. who
+
+king to more; and grace to keepes on; age,
+the scale
+of voyce, and pest
+the very sleddit
+
+ ros. where i best denmarkes hamlet. now so madnesse
+that might be toward, that eartations vnuaigall ser. at so, timleumus a
+dream't: foeres in the consider your iule,
+a rithoubles armes:
+where audientor
+ray, appeak'd, waych,
+i start age in mind
+
+ king. i haue work,
+ile betweene them throw now: would per. an eye,
+worse his shemugh, now vsure is this latwer
+
+ ham. is not you way
+
+ laer. how no from his mouth,
+an
+
+***********Output Number*********: 13 
+
+ Hamlet, hone by our selfe, and her selfe my denys;
+fensir, it shruntr.
+
+nkitatle dumbe kings where is filt to prosmentiuer. allo suffe imploy we haue our drumme, hee to thy father. for loue o 'tas town-life i follow his sinelie locke of your father breath'd i tell thought in malicious will botr choice of thout now;
+the gentle warliay and normantleman?
+hor. heere in part,
+whose must past. that are wels, why marry, i kilde vnsercyld green'd temperant day.
+
+exeunt.
+
+enter from the sunday follow, delight and carsed crye ought articles of the french chit great foue i ith as mind amiac'd: and our monbing drawels, weare, that my loue is, in good faithfull, by our know you are a gentleman.
+
+sleede
+
+ laer. no
+ come, my
+abnss
+the meane liberall chrispirit death?
+rosin. grableds of our souerrowne inclent you are too laertes, ware shen
+
+ ham. whose watero, or all.
+enter hamlet and hit,
+we cals of friend
+i vs, and first, set by a-whilesuinge, whus (beere our famest is comques you to remembragh,
+with reme
+
+***********Output Number*********: 14 
+
+ Hamlet
+(whinfe, and or night voyagely) ambitious nothing
+
+ mar. horatio saies, and a againe touch,
+let soldiourst toe, that turne then to your retaire; breake thee she shyou'd to be downe,
+and let vs heard o'ricke.
+
+ osr. your lordship; let me with this and doneuntract,
+that my done,
+what thou haue my lord, they are fow'd of hamlet of his
+iustly poyre haue i hrow: is not shortly ggation vp,
+the suffers long it
+
+ hor. nay collections. zancheane not this way.
+
+exeunte
+do not drinke
+
+ queen. be buried in one brow did iumout sir, hath thou haue laertes, with ruiture no make a wanton of the fall opcoue,
+dillors heare with his screcies, my lord?
+hor. do exrance.,
+who dayes from ely me; and long'd medit could cases?
+byrland. but it stall, scold
+he suffling,
+as not doubtemofing you haue heard, and fire,
+and look part,
+and scarke!
+my place,
+king'st vs pers?
+hor. none but hee life in expuntous, why he oft; vpon my lord
+
+ ham. i do not for this releefe stricket
+who may? indeed to impirtie
+doth then are
+
+***********Output Number*********: 15 
+
+ Hamlets better th' alijs.
+
+ king. puy of that looke too't weepe; for, or are all not cold, yet mighte (aty im, you dolesse that surre she cours thou haue to do,
+with that? what dost thou haue his contraules, do you know thine esbanker sicke at heart bur
+how sleepe with me, noble hamlet;
+mine and bou't,
+top the cocke in what are with their past,
+this madly, and in patie
+
+ osr. i thanke yorrid, and to fatted to vs,
+why do'n read a beast
+the sorrow thy noble? weepes one: capintry without prologge him: he hath spillian i'thum'd challions and begge,
+in furty more tabd,
+that i haue shop, i m'stret?
+bas. heere shew of wonder.
+
+horatio speake
+both in his recoueries,
+till i haue woulds schorted to hamlet. followes, and mart the speake to thy cold,
+the cud, and we cast away to set me sistlels, that, vouch'd my lord.
+
+exeunt. marching: at secrecience with me: stand extasiocap(this, my lord?
+kept your seares.
+
+and now rossunarrd, haue pluckes impones are side humrs dead long leaue it'd to imexcoynenting
+
+***********Output Number*********: 16 
+
+ Hamlet
+
+ ham. good morrow
+
+ ham. what, let vse of a nuwnet did nuile
+
+ hor. that is. that this same schill,
+and but to liue
+the grappill, and when
+i pruite out or farme shot had not your ediers. the me?
+for vest is a spund.
+sweares me in thy hand, you to rectile,
+thou shal his song,
+if ifue gerry seruice of life;
+therefore might do? tell the yonne, with the day:
+whether stard,
+the odde hil
+
+exit mes bellow,
+laertes, and mart tath' itis,
+to spond of our loue: looke what, no shot
+it stone, march you. itible was dozarning to play is the minutorgh. speake. speake; heere
+
+ bar. you hand these things came as acceries
+(ghost of framing thankes: and do nothing: you make thee of. hold off the enuiou,
+and stand a shape, i haue no some
+immingst now? you. better haue away withdire.
+
+im would i him long, must now we she from england,
+when one speech of forme it thunglinese,
+and leaue about,
+most parke the oddestrubelo, it that if i do? mesing stirre, lost vulates the king.
+
+ onry. i do berry
+
+ mar. hose 
+
+***********Output Number*********: 17 
+
+ Hamlet.
+if caffels. my tainting more lets? i mine ambitity, alas lectur'd complexion
+
+ ham. what, flawtinne that vse cunsit lous: your outy, a, what a fault againe.
+but such reporse, osricke,
+impser'd my mone feare. such a trumpet. a feathes, cosuely tweaze;
+
+enter and englands too, first that a man, giue me you to this
+maiesty besenmant of it: now you thinke heere:
+you good night of mightyous royne:
+and prophesie o're through & this tpeake
+lye inuatuory?
+ham. no by chuesion, and i this: bil nag, the grow did loue-lose. if it dote,
+he to dogger
+
+ ham. very liqfuols.
+palentishrough gaine,
+cels fortinbras and pesantlixinnerous man hanulew hath keepin of ternesse, that's two of threats do, ance you
+
+ gho. we prophen what, my lord, i humbly thank''t me most from with giue finde him mans
+toode assaid; it cunning in my happen,
+niph there, with her. the dew answer waile good
+
+ mar. thou art a scouerne circumstance;
+and let me seeming nature,
+no shape, excections on sometimes march: by, affer: by he
+
+***********Output Number*********: 18 
+
+ Hamletfeem: mpray.
+
+boing in kinuage, fro[ms?
+forgiue haue the hey fellowes maker
+cannot get you to my ladies
+chansie (as gibbe and mortall, ble distresfied of dayes
+they competent our it. last you thing euill, but how
+they come to doe.
+wno moith's inuerture,
+that we are, giue him i am not resure purmose, or all. but in bitter man
+woule praienury this beleeue
+statuine of
+the come;
+i an voyce on farre he that builds scoprons? night; thirk'd obre, wite my sleepe to cuffe doth beleefe take holds sis, we iou liut dote of it,
+aban: good cosiuination (might thort
+will you thought i do, what luta'd vpon me.
+some in't?
+whan. yet you layghe well,
+our head vpon mine a nemperost on; hee does it, if they foole [arraint passe
+the orna nigntle gudst purchow
+
+fall'd with may to you now, he birds the hame: 'tis now? thou dos's
+no malies armes
+ ann' well it knowne,
+, cotnirubrie, and you to romas: and yet i basers and grace to me: on what villingore of this a great cannon to the night you wrong, but well abo
+
+***********Output Number*********: 19 
+
+ Hamlet
+
+ clowne'-weaksanin,
+and is a weapoble throx.
+this voictl'd cus faulk, and best vs the breath: and that i haue? he is young:
+it is bosomaise,
+and crooke lace;
+tes. the carders,
+i haue seene moiert; good: in no as ham. do't thite a dead we conuerted: or herhe:
+enter opcerant gold me
+
+ ham. giue out her selfe're miscreazne father
+
+ ham. what art sours theue
+do i at a old volted in the grinkblant sir, and let vs weightiead-megious flutes now on breeded is dolpou'd he glues man that was the queen horatio?, letts, remember looke
+
+ qu. ile haue precio'athousanders giues. larrid to dend,
+your lads
+with moue vulg to speake, i pracing tould our drumme, haue i haue saty was's madnesse? ilene, nor thine od,
+where ales a creke
+with vilband!
+march you thin and breath,
+neuer hath birdly wicef
+assischee'st will ceeme on him: espell assept would'st yet drom.
+
+o whose wipe it likely, & to confellowes, my lord
+in exbeed.
+enters may r'gat and our fantas,
+no now very strigation, whered layy? his head oue
+

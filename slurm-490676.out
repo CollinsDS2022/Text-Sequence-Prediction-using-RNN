@@ -1,0 +1,49 @@
+2023-01-14 16:39:45.146856: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-01-14 17:02:55.130951: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ gru (GRU)                   (None, None, 128)         66048     
+                                                                 
+ gru_1 (GRU)                 (None, None, 128)         99072     
+                                                                 
+ time_distributed (TimeDistr  (None, None, 42)         5418      
+ ibuted)                                                         
+                                                                 
+=================================================================
+Total params: 170,538
+Trainable params: 170,538
+Non-trainable params: 0
+_________________________________________________________________
+Traceback (most recent call last):
+  File "gen_text.py", line 40, in <module>
+    output.append(complete_text("Hamlet", 1000, temperature=i))
+  File "gen_text.py", line 34, in complete_text
+    text += next_char(text, temperature)
+  File "gen_text.py", line 26, in next_char
+    y_proba = new_model.predict(X_new)[0, -1:, :]
+  File "/home/fpds06/.conda/envs/my_env/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/tmp/__autograph_generated_filenlb46xvz.py", line 15, in tf__predict_function
+    retval_ = ag__.converted_call(ag__.ld(step_function), (ag__.ld(self), ag__.ld(iterator)), None, fscope)
+ValueError: in user code:
+
+    File "/home/fpds06/.conda/envs/my_env/lib/python3.8/site-packages/keras/engine/training.py", line 2041, in predict_function  *
+        return step_function(self, iterator)
+    File "/home/fpds06/.conda/envs/my_env/lib/python3.8/site-packages/keras/engine/training.py", line 2027, in step_function  **
+        outputs = model.distribute_strategy.run(run_step, args=(data,))
+    File "/home/fpds06/.conda/envs/my_env/lib/python3.8/site-packages/keras/engine/training.py", line 2015, in run_step  **
+        outputs = model.predict_step(data)
+    File "/home/fpds06/.conda/envs/my_env/lib/python3.8/site-packages/keras/engine/training.py", line 1983, in predict_step
+        return self(x, training=False)
+    File "/home/fpds06/.conda/envs/my_env/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+        raise e.with_traceback(filtered_tb) from None
+    File "/home/fpds06/.conda/envs/my_env/lib/python3.8/site-packages/keras/engine/input_spec.py", line 295, in assert_input_compatibility
+        raise ValueError(
+
+    ValueError: Input 0 of layer "sequential" is incompatible with the layer: expected shape=(None, None, 42), found shape=(None, 0, 0)
+
+srun: error: gpu01: task 0: Exited with exit code 1
